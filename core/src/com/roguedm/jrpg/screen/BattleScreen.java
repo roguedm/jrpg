@@ -8,6 +8,7 @@ import com.badlogic.gdx.InputProcessor;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.Camera;
 import com.badlogic.gdx.graphics.OrthographicCamera;
+import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector3;
@@ -18,9 +19,11 @@ import com.badlogic.gdx.utils.Scaling;
 import com.badlogic.gdx.utils.ScreenUtils;
 import com.badlogic.gdx.utils.viewport.ScalingViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
+import com.roguedm.jrpg.AssetManager;
 import com.roguedm.jrpg.GameUtils;
 import com.roguedm.jrpg.JRPGGame;
 import com.roguedm.jrpg.object.Facing;
+import com.roguedm.jrpg.object.menu.Menu;
 import com.roguedm.jrpg.object.hero.Hero;
 import com.roguedm.jrpg.object.Monster;
 import com.roguedm.jrpg.object.fx.EffectManager;
@@ -33,52 +36,51 @@ public class BattleScreen implements Screen {
     public static final int OFFSET_X = 100;
     public static final int OFFSET_Y = 100;
 
-
     private SpriteBatch spriteBatch;
-
     private Viewport viewport;
-
-    private Array<Hero> heroes;
-
-    private Array<Monster> monsters;
 
     private EffectManager effectManager;
 
+    private Array<Hero> heroes;
+    private Array<Monster> monsters;
+
+    private Menu menu;
+
+    private BitmapFont font;
+
+
     public BattleScreen() {
-        viewport = new ScalingViewport(Scaling.fill, GameUtils.SCREEN_WIDTH, GameUtils.SCREEN_HEIGHT, new OrthographicCamera());
-        viewport.setScreenBounds(0, 0, GameUtils.SCREEN_WIDTH, GameUtils.SCREEN_HEIGHT);
-        viewport.getCamera().update();
+        this.viewport = new ScalingViewport(Scaling.fill, GameUtils.SCREEN_WIDTH, GameUtils.SCREEN_HEIGHT, new OrthographicCamera());
+        this.viewport.setScreenBounds(0, 0, GameUtils.SCREEN_WIDTH, GameUtils.SCREEN_HEIGHT);
+        this.viewport.getCamera().update();
 
-        spriteBatch = GameUtils.getSpriteBatch();
-
+        this.spriteBatch = GameUtils.getSpriteBatch();
         this.effectManager = new EffectManager();
+        this.font = AssetManager.getInstance().getFont();
 
-        heroes = new Array<Hero>();
+        this.menu = new Menu();
+
+        this.heroes = new Array<Hero>();
         ApplicationListener listener = Gdx.app.getApplicationListener();
         if (listener != null && listener instanceof JRPGGame) {
             JRPGGame parent = ((JRPGGame) Gdx.app.getApplicationListener());
             if (parent.getGameState() != null) {
-                heroes = parent.getGameState().getParty();
-                if (heroes != null) {
+                this.heroes = parent.getGameState().getParty();
+                if (this.heroes != null) {
                     int c = 0;
-                    for (Hero hero : heroes) {
+                    for (Hero hero : this.heroes) {
                         if (hero != null) {
-                            hero.update();
                             hero.set(Coord.get(OFFSET_X, GameUtils.SCREEN_HEIGHT - OFFSET_Y - (c++ * OFFSET_Y)));
+                            hero.update();
                         }
                     }
                 }
             }
         }
 
-        monsters = new Array<Monster>();
-        Monster monster1 = new Monster();
-        monster1.init();
-        monster1.update();
-        monster1.setFacing(Facing.Left);
-        monster1.set(Coord.get(GameUtils.SCREEN_WIDTH - OFFSET_Y - GameUtils.TILE_SIZE, GameUtils.SCREEN_HEIGHT - OFFSET_Y));
-        monsters.add(monster1);
-
+        this.monsters = new Array<Monster>();
+        addMonster();
+        addMonster();
 
         Gdx.input.setInputProcessor(new InputMultiplexer(new InputProcessor() {
             @Override
@@ -117,7 +119,7 @@ public class BattleScreen implements Screen {
                                     @Override
                                     public boolean handle(Event event) {
                                         monster.damage(-1);
-                                        if (!monster.isAlive()) {
+                                        if (!isMonsterAlive()) {
                                             GameUtils.setScreen(BattleScreen.this, new GameScreen());
                                         }
                                         return false;
@@ -160,9 +162,28 @@ public class BattleScreen implements Screen {
 
     }
 
-    @Override
-    public void show() {
+    public void addMonster() {
+        if (monsters != null) {
+            Monster monster = new Monster();
+            monster.init();
+            monster.setFacing(Facing.Left);
+            monster.set(Coord.get(GameUtils.SCREEN_WIDTH - OFFSET_Y - GameUtils.TILE_SIZE, GameUtils.SCREEN_HEIGHT - ((monsters.size + 1) * OFFSET_Y)));
+            monster.update();
+            monsters.add(monster);
+        }
+    }
 
+    public boolean isMonsterAlive() {
+        if (monsters != null) {
+            for (Monster monster : monsters) {
+                if (monster != null) {
+                    if (monster.isAlive()) {
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
     }
 
     @Override
@@ -197,6 +218,10 @@ public class BattleScreen implements Screen {
 
                 effectManager.render(spriteBatch);
 
+
+                menu.draw(spriteBatch, font, 10, 120);
+
+
                 spriteBatch.end();
 
                 effectManager.act(delta);
@@ -206,6 +231,11 @@ public class BattleScreen implements Screen {
 
     public void resize(int width, int height) {
         viewport.update(width, height, true);
+    }
+
+    @Override
+    public void show() {
+
     }
 
     @Override
@@ -235,7 +265,6 @@ public class BattleScreen implements Screen {
         if (effectManager != null) {
             effectManager.dispose();
         }
-
     }
 
 }

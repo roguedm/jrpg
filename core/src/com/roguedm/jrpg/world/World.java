@@ -14,6 +14,8 @@ import com.roguedm.jrpg.object.Glider;
 public class World {
 
     private static final String COLLISION_LAYER_NAME = "Collisions";
+    private static final char WALL = '#';
+    private static final char FLOOR = '.';
 
     private TiledMap tiledMap;
 
@@ -33,9 +35,9 @@ public class World {
                 for (int y = 0; y < height; y++) {
                     for (int x = 0; x < width; x++) {
                         if (collisionLayer.getCell(x, y) != null) {
-                            collisionMap[x][y] = '#';
+                            collisionMap[x][y] = WALL;
                         } else {
-                            collisionMap[x][y] = '.';
+                            collisionMap[x][y] = FLOOR;
                         }
                     }
                 }

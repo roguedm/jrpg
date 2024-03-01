@@ -4,6 +4,8 @@ import com.badlogic.gdx.utils.Array;
 import com.roguedm.jrpg.object.Glider;
 import com.roguedm.jrpg.object.hero.Hero;
 import com.roguedm.jrpg.object.hero.Wizard;
+import com.roguedm.jrpg.world.Level;
+import com.roguedm.jrpg.world.LevelManager;
 import com.roguedm.jrpg.world.World;
 
 import squidpony.squidmath.Coord;
@@ -31,8 +33,11 @@ public class GameState {
         actor = new Glider(1, 19);
         actor.set(Coord.get(1, 1));
 
-        world = new World("maps/test.tmx");
-        world.initialize(actor);
+        Level level = LevelManager.getInstance().getLevel();
+        if (level != null) {
+            world = new World(level.getFileName());
+            world.initialize(actor);
+        }
     }
 
     public Glider getActor() {
@@ -48,6 +53,7 @@ public class GameState {
     }
 
     public void dispose() {
+        LevelManager.getInstance().dispose();
     }
 
 }

@@ -7,13 +7,9 @@ import com.roguedm.jrpg.screen.GameScreen;
 
 /***
  *
- * Lock screen while moving
  * Clean up Game Screen
  * Clean up World to render more efficient
  *
- *
- * @Todo Fonts
- * @Todo Level Objects
  *
  * @Todo PartyScreen
  *

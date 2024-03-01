@@ -17,6 +17,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 import com.badlogic.gdx.utils.TimeUtils;
 import com.badlogic.gdx.utils.viewport.ScalingViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
+import com.roguedm.jrpg.AssetManager;
 import com.roguedm.jrpg.GameUtils;
 import com.roguedm.jrpg.JRPGGame;
 import com.roguedm.jrpg.object.Facing;
@@ -50,7 +51,11 @@ public class GameScreen implements Screen {
 
     private Viewport viewport;
 
+    private boolean lock;
+
     public GameScreen() {
+        lock = true;
+
         viewport = new ScalingViewport(Scaling.fill, GameUtils.SCREEN_WIDTH, GameUtils.SCREEN_HEIGHT, new OrthographicCamera());
         viewport.setScreenBounds(0, 0, GameUtils.SCREEN_WIDTH, GameUtils.SCREEN_HEIGHT);
         viewport.getCamera().update();
@@ -113,11 +118,17 @@ public class GameScreen implements Screen {
             }
 
             @Override
-            public boolean touchDown(final int screenX, final int screenY, int pointer, int button) {
+            public boolean touchUp(final int screenX, final int screenY, int pointer, int button) {
+                if (lock) {
+                    return false;
+                }
+
                 final Vector3 touchpoint = viewport.getCamera().unproject(new Vector3(screenX, screenY, 0));
 
                 final int x = MathUtils.floor(touchpoint.x / GameUtils.TILE_SIZE);
                 final int y = MathUtils.floor(touchpoint.y / GameUtils.TILE_SIZE);
+
+                lock = true;
 
                 if(awaitedMoves.isEmpty()) {
                     animationStart = TimeUtils.millis();
@@ -143,7 +154,7 @@ public class GameScreen implements Screen {
             }
 
             @Override
-            public boolean touchUp(int screenX, int screenY, int pointer, int button) {
+            public boolean touchDown(int screenX, int screenY, int pointer, int button) {
                 return false;
             }
 
@@ -169,10 +180,12 @@ public class GameScreen implements Screen {
 
         }));
 
+        lock = false;
     }
 
     private void post() {
         phase = Phase.ACT;
+        lock = false;
     }
 
     public void move(int newX, int newY) {
@@ -216,6 +229,7 @@ public class GameScreen implements Screen {
                 glider.render(spriteBatch, glider.getX() * GameUtils.TILE_SIZE, glider.getY() * GameUtils.TILE_SIZE, GameUtils.TILE_SIZE, GameUtils.TILE_SIZE);
                 glider.act(delta);
                 world.render(camera);
+
                 spriteBatch.end();
             }
         }
