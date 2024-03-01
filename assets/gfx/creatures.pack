@@ -1,0 +1,2777 @@
+
+creatures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 4
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 5
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 6
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 7
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 8
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 9
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 10
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 100
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 101
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 102
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 103
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 104
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 105
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 106
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 107
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 108
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 109
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 11
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 110
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 111
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 112
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 113
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 114
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 115
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 116
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 117
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 118
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 119
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 12
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 120
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 121
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 122
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 123
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 124
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 125
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 126
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 127
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 128
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 129
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 13
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 130
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 131
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 132
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 133
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 134
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 135
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 136
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 137
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 138
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 139
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 14
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 140
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 141
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 142
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 143
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 144
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 145
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 146
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 147
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 148
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 149
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 15
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 150
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 151
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 152
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 153
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 154
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 155
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 156
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 157
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 158
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 159
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 16
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 160
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 161
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 162
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 163
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 164
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 165
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 166
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 167
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 168
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 169
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 17
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 170
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 171
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 172
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 173
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 174
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 175
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 176
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 177
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 178
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 179
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 18
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 180
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 181
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 182
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 183
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 184
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 185
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 186
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 187
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 188
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 189
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 19
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 190
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 191
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 192
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 193
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 194
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 195
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 196
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 197
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 198
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 199
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 20
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 200
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 201
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 202
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 203
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 204
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 205
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 206
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 207
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 208
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 209
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 21
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 210
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 211
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 212
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 213
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 214
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 215
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 216
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 217
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 218
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 219
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 22
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 220
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 221
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 222
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 223
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 224
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 225
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 226
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 227
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 228
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 229
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 23
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 230
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 231
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 232
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 233
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 234
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 235
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 236
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 237
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 238
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 239
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 24
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 240
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 241
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 242
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 243
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 244
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 245
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 246
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 1, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 247
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 248
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 249
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 25
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 250
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 251
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 252
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 253
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 254
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 255
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 256
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 257
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 258
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 259
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 26
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 260
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 261
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 262
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 263
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 27, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 264
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 265
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 266
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 267
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 268
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 269
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 27
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 270
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 271
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 272
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 273
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 274
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 275
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 276
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 277
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 278
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 279
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 28
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 280
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 53, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 281
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 282
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 283
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 284
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 285
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 286
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 287
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 288
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 289
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 29
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 290
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 291
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 292
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 293
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 294
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 295
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 296
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 297
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 298
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 79, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 299
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 30
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 300
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 301
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 302
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 303
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 304
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 305
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 306
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 307
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 308
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 309
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 31
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 310
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 311
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 312
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 313
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 314
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 315
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 105, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 316
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 317
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 318
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 319
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 32
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 320
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 321
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 322
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 323
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 324
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 325
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 326
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 327
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 328
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 329
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 33
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 330
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 331
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 332
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 131, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 333
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 334
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 335
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 336
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 337
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 338
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 339
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 34
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 340
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 341
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 342
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 343
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 344
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 345
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 346
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 347
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 348
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 349
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 35
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 157, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 350
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 351
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 352
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 353
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 354
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 355
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 356
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 357
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 358
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 359
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 36
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 360
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 361
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 362
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 363
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 364
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 365
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 366
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 625, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 367
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 183, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 368
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 369
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 37
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 370
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 371
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 372
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 373
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 374
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 375
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 376
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 377
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 378
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 379
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 38
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 380
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 381
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 382
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 625, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 383
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 651, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 384
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 209, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 385
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 386
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 387
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 388
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 389
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 39
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 390
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 391
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 392
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 393
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 394
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 395
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 396
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 40
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 41
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 42
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 625, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 43
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 651, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 44
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 677, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 45
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 235, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 46
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 47
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 48
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 49
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 50
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 51
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 52
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 53
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 54
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 55
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 56
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 57
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 58
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 59
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 60
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 625, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 61
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 651, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 62
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 677, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 63
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 703, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 64
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 261, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 65
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 66
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 67
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 68
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 69
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 70
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 71
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 72
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 73
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 74
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 75
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 76
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 77
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 78
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 625, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 79
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 651, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 80
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 677, 417
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 81
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 703, 443
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 82
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 729, 469
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 83
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 287, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 84
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 313, 27
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 85
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 339, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 86
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 365, 79
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 87
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 391, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 88
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 417, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 89
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 443, 157
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 90
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 469, 183
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 91
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 495, 209
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 92
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 521, 235
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 93
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 547, 261
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 94
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 573, 287
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 95
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 599, 313
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 96
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 625, 339
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 97
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 651, 365
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 98
+oryx_16bit_fantasy_creatures
+  rotate: false
+  xy: 677, 391
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 99

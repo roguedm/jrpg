@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="24" tileheight="24" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="world.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyzYmBgsBogbEdnPGrvqL0jyV5S8xux6kftHRz2DlS6GrV31N6haO9AYAAWb49R
+  </data>
+ </layer>
+ <layer id="2" name="Collisions" width="30" height="20" visible="0" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJyzYmBgsBogTG8wau+ovSPJXlLzG7HqiZHHxqZU/WC2dyDCmVZg1N5Re4ejvQOBAbgxGzE=
+  </data>
+ </layer>
+</map>
